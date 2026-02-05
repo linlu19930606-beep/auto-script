@@ -44,6 +44,6 @@ jobs:
           subject: "每日可用免费节点"
           body: |
             今日可用节点已更新，见附件。
-          to: 你的邮箱@gmail.com
+          to: 你的邮箱linlu19930606@gmail.com
           from: GitHub Actions
           attachments: available_nodes.txt
